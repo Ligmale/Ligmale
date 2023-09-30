@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Ligmale
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++, of course
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me , That's the neat part you don't
+Ligma balls
